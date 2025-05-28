@@ -1,0 +1,32 @@
+### Summary of the Income Tax (Common Reporting Standard) Regulations, 2019
+
+- **Purpose**: Establishes guidelines for the automatic exchange of financial account information under the Common Reporting Standard (CRS) to comply with international tax cooperation agreements.
+  
+- **Scope**: Applies to financial institutions in Nigeria, delineating their obligations regarding due diligence, reporting, and record-keeping related to foreign account holders.
+
+#### Key Parts:
+
+1. **Preliminary**: 
+   - Outlines the legislative foundation and objectives of the regulations.
+  
+2. **Requirements of CRS**: 
+   - **Status of Guidelines**: CRS and related guidelines are mandatory.
+   - **Due Diligence**: Financial institutions must identify reportable accounts using standardized procedures.
+   - **Reporting**: Annual information returns on reportable accounts must be submitted electronically by May 31 each year.
+   - **Record-Keeping**: Institutions must maintain pertinent records for at least six years.
+
+3. **Administration**: 
+   - The Federal Inland Revenue Service (FIRS) is responsible for administering the regulations and ensuring compliance.
+   - FIRS has the authority to inspect financial institutions and request information to confirm compliance.
+
+4. **Non-Compliance and Penalties**:
+   - Penalties for non-compliance can be significant, with fines starting at ₦10,000,000 for initial failures and continuing monthly penalties.
+   - False reports or deceptive information leading to legal repercussions.
+
+#### Practical Takeaways:
+
+- **Financial Institutions**: Must implement and document procedures for identifying foreign reportable accounts.
+- **Deadlines**: Ensure all necessary reports are submitted electronically by the designated annual deadline (May 31).
+- **Record Retention**: Maintain relevant financial records for at least six years, ensuring any documentation in non-English languages is translated.
+- **Compliance Monitoring**: Be aware that FIRS has broad authority to conduct audits and reviews of compliance practices, so maintain transparency and proper documentation.
+- **Risk of Penalties**: Non-compliance can lead to hefty financial penalties, which escalate monthly, making it essential to stay informed and compliant with the regulations.

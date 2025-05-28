@@ -1,0 +1,49 @@
+### Summary of the SEC Nigeria AML/CFT Compliance Manual for Capital Market Operators
+
+**Preamble:**
+- The document outlines guidelines for Capital Market Operators (CMOs) to comply with Anti-Money Laundering (AML) and Combating Financing of Terrorism (CFT) regulations.
+- It informs CMOs of their responsibilities and the importance of maintaining the integrity of the capital market.
+
+**Key Definitions:**
+- **Applicant for Business**: Individuals or companies seeking to form a business relationship.
+- **Beneficial Owner**: The person(s) who ultimately control or benefit from a client's transaction.
+- **Business Relationship**: A connection established for regular transactions.
+- **Politically Exposed Person (PEP)**: Individuals with prominent public functions, posing higher risks in terms of money laundering.
+- **Know Your Customer (KYC)**: Process of verifying clients' identities to prevent financial crimes.
+
+**Main Sections of the Manual:**
+
+### Part A: Institutional Policy Framework
+- **Establish Institutional Policy**: CMOs must develop internal policies for AML/CFT compliance.
+- **Designation of Compliance Officer**: Appoint an official responsible for AML/CFT practices.
+- **Cooperation with Authorities**: Work with law enforcement and regulatory bodies.
+- **Understanding Proceeds**: Recognize types of proceeds that may be laundered.
+
+### Part B: Client Due Diligence (CDD)
+- **Carry Out Client Verification**: Confirm identities using various measures.
+- **Assess Risk Levels**: Identify and categorize clients based on risk (low, medium, high).
+- **Handle Political Exposures**: Apply enhanced due diligence for PEPs.
+- **Monitor Transactions**: Report and respond to suspicious activities.
+
+**Risk Management Procedures:**
+- Attention to complex or unusual transactions.
+- Maintain records of all transactions.
+- Provide employee training on AML/CFT practices.
+- Protect whistleblowers against retaliation.
+
+### Part C: Know Your Customer (KYC) Guidance
+- **Identification Requirements**: Gather and verify clients’ identification documents.
+- **Non-Face-to-Face Transactions**: Implement measures for verifying clients when in-person meetings are not possible (e.g., online).
+- **Special Categories**: Establish identification protocols for specific client types (e.g., refugees, minors).
+
+### Practical Takeaways:
+- **Compliance Essential**: CMOs must fully comply with AML/CFT regulations or face sanctions.
+- **Audit and Record-Keeping**: Maintain comprehensive records and conduct audits to ensure compliance.
+- **Risk Assessment Approach**: Adopt a risk-based approach in identifying and managing AML/CFT exposures.
+- **Continuous Training**: Regularly train staff on AML/CFT practices and encourage a culture of compliance.
+
+### Conclusion:
+- The compliance manual serves as a guide for Capital Market Operators in Nigeria to prevent money laundering and terrorist financing.
+- Adherence to these guidelines will safeguard the financial market and enhance its integrity. 
+
+CMOs are encouraged to familiarize themselves with these provisions to ensure operational compliance and risk management.

@@ -1,0 +1,36 @@
+### Summary of the Central Bank of Nigeria (Customer Due Diligence) Regulations, 2023
+
+#### Objectives and Application
+- **Purpose**: Enhance customer due diligence (CDD) measures for financial institutions to improve compliance with anti-money laundering (AML) and counter-terrorism financing (CTF) laws.
+- **Scope**: Applies to all financial institutions regulated by the Central Bank of Nigeria.
+
+#### Key Regulations
+- **Anonymous Accounts**: Institutions are prohibited from opening anonymous or fictitious accounts.
+- **CDD Triggers**: CDD measures must be undertaken:
+  - When establishing business relationships.
+  - For occasional transactions exceeding $1,000.
+  - When there are doubts about previously obtained customer data.
+  - If there is suspicion of money laundering or terrorism financing.
+  
+#### Customer Identification
+- **Individuals**: Collect comprehensive personal information including legal name, addresses, contact details, date of birth, and identification numbers.
+- **Businesses**: Gather information such as business name, addresses, registration numbers, and documents confirming legal existence.
+
+#### Verification Procedures
+- **Identity Verification**: Institutions must use reliable, independent documents to verify customer identity.
+- **Ongoing Monitoring**: Continuous monitoring of the business relationship is required to check for any suspicious activities.
+
+#### Record Keeping and Compliance
+- **Documentation**: Financial institutions must maintain comprehensive records of identification, verification, and due diligence processes.
+- **Non-compliance**: Institutions face sanctions for failing to comply with these regulations.
+
+#### Additional Considerations
+- **Enhanced CDD**: More rigorous measures may be applied based on the nature of the customer or transaction.
+- **Third Party Reliance**: Financial institutions can rely on third-party identification and verification, but must confirm their authority to act on behalf of the customer.
+
+### Practical Takeaways
+- Financial institutions in Nigeria must review and enhance their customer due diligence processes.
+- Institutions should enforce strict policies against opening anonymous accounts and ensure thorough verification of all customers.
+- Regular training on AML and CTF measures is vital for staff.
+- Establish robust record-keeping practices to ensure compliance and readiness for audits.
+- Monitor for suspicious activities and understand the customer's source of funds comprehensively.
