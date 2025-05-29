@@ -34,6 +34,7 @@ dist
 env/
 venv/
 ENV/
+VENV/
 env.bak/
 venv.bak/
 
@@ -46,3 +47,4 @@ __pycache__/
 __blobstorage__
 __queuestorage__
 __azurite_db*__.json
+regulatory_documents
